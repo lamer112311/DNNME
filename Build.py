@@ -22,7 +22,7 @@ def ban():
 
 cls()
 ban()
-my_file = open('Dnnbot.py', 'w', encoding='utf-8')
+my_file = open('Dnnme.py', 'w', encoding='utf-8')
 
 a = input(Fore.MAGENTA + "Введите ваш айди: ")
 my_file.write("""
