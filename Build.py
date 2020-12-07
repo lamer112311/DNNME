@@ -16,7 +16,7 @@ def ban():
 ''')
 
     
-    print(Fore.CYAN + 'by @lamer112311' + Fore.WHITE + '   Channel: ' + Fore.RED + 'protect_yourself_channel' + Fore.BLUE)
+    print(Fore.CYAN + 'by @lamer112311' + Fore.WHITE + '   Channel: ' + Fore.RED + '@cyber_puffin' + Fore.BLUE)
     print(Fore.BLUE + '------DEANONYM BOT BUILDER-----------------')
     print('-------------------------------------------\n')
 
