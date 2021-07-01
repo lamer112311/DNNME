@@ -22,6 +22,7 @@ def ban():
 
 cls()
 ban()
+print("Вышла новая версия скрипта! https://github.com/lamer112311/Dnnme2")
 my_file = open('Dnnme.py', 'w', encoding='utf-8')
 
 a = input(Fore.MAGENTA + "Введите ваш айди: ")
