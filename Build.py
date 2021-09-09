@@ -1,3 +1,5 @@
+
+
 from colorama import Fore, Back, Style
 import os
 
@@ -15,7 +17,7 @@ def ban():
  |_____/|_| \_|_| \_| |_|  |_|______|
 ''')
 
-    
+    print("Внимание! Скрипт работает, но уже есть новая версия! https://github.com/lamer112311/Dnnme2")
     print(Fore.CYAN + 'by @lamer112311' + Fore.WHITE + '   Channel: ' + Fore.RED + '@cyber_puffin' + Fore.BLUE)
     print(Fore.BLUE + '------DEANONYM BOT BUILDER-----------------')
     print('-------------------------------------------\n')
